@@ -1,7 +1,7 @@
 # Haskell ToDo Console
 
 ## Table of Contents
-
+ 
 - [Description](#description)
 - [Features](#features)
 - [Getting Started](#getting-started)
