@@ -7,7 +7,7 @@
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-
+ 
 ## Description
  
 Haskell ToDo Console is a simple console-based to-do list application written in Haskell. It allows you to manage your tasks by adding, marking as done, and searching for items based on specified parameters.
