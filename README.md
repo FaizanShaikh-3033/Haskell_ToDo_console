@@ -40,6 +40,7 @@ Before running the application, make sure you have the following installed on yo
 
  
    cabal update
+   
    cabal build
 
 ## Usage
