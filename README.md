@@ -32,7 +32,7 @@ Before running the application, make sure you have the following installed on yo
 1. Clone the repository:
 
   
-   git clone https://github.com/your-username/Haskell_ToDo_console.git
+   git clone https://github.com/FaizanShaikh-3033/Haskell_ToDo_console.git
    cd Haskell_ToDo_console
 
 
